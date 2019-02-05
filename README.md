@@ -1,0 +1,2 @@
+# wg-gui
+Wireguard WebGUI
